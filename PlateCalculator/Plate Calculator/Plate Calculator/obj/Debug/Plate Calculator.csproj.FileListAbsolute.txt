@@ -1,0 +1,10 @@
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\bin\Debug\Plate Calculator.exe.config
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\bin\Debug\Plate Calculator.exe
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\bin\Debug\Plate Calculator.pdb
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\obj\Debug\Plate Calculator.csprojAssemblyReference.cache
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\obj\Debug\Plate_Calculator.Form1.resources
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\obj\Debug\Plate_Calculator.Properties.Resources.resources
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\obj\Debug\Plate Calculator.csproj.GenerateResource.cache
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\obj\Debug\Plate Calculator.csproj.CoreCompileInputs.cache
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\obj\Debug\Plate Calculator.exe
+D:\Personal Projects\PlateCalculator\Plate Calculator\Plate Calculator\obj\Debug\Plate Calculator.pdb
